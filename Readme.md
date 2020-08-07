@@ -6,7 +6,7 @@ Hello there! This repository has various Python projects made during my learning
 
 	User must have openpyxl installed to use this. 
 
-	IMPORTANT: TO USE THIS TOOLS, TURN ON "LESS SECURE APPS" ON YOUR GMAIL ACCOUNT. GOOGLE IT FOR MORE INFO.
+	IMPORTANT: TO USE THIS TOOL, TURN ON "LESS SECURE APPS" ON YOUR GMAIL ACCOUNT. GOOGLE IT FOR MORE INFO.
 
 	CAUTION: DO NOT RENAME THIS PYTHON FILE AS 'email.py', ANYTHING ELSE IS JUST FINE.
 	CAUTION: DO NOT USE .value() OR .value() OR .values at line 46. Only use .value for this as it is not a method.
@@ -27,7 +27,7 @@ Hello there! This repository has various Python projects made during my learning
 	
 	User must have openpyxl installed to use this. 
 
-	IMPORTANT: TO USE THIS TOOLS, TURN ON "LESS SECURE APPS" ON YOUR GMAIL ACCOUNT. GOOGLE IT FOR MORE INFO.
+	IMPORTANT: TO USE THIS TOOL, TURN ON "LESS SECURE APPS" ON YOUR GMAIL ACCOUNT. GOOGLE IT FOR MORE INFO.
 
 		
 	CAUTION: DO NOT RENAME THIS PYTHON FILE AS 'email.py', ANYTHING ELSE IS JUST FINE.
