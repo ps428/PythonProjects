@@ -73,3 +73,7 @@ Hello there! This repository has various Python projects made during my learning
 3) 'friend.py'
 		
 		This Python program takes two names as input and give friendship index of the names.
+
+3) 'ImageResizer.py'
+		
+		This program can be used to resize any image. This is very simple tools so please keep the image file in same directory as this program.
