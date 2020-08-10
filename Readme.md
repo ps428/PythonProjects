@@ -68,7 +68,7 @@ Hello there! This repository has various Python projects made during my learning
 
 			Using the above explained concept, I have made this program to calculate cosine similarity. 
 			This program is not case sensitive, but it can be made so with a few amendments.
-			I have also added some exceptions at line 7 in the code, these words will be excluded from set of words reserved for comparision. 
+
 
 3) 'friend.py'
 		
