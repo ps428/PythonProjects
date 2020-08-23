@@ -47,6 +47,10 @@ Hello there! This repository has various Python projects made during my learning
 			It takes about 10-20 seconds to send a mail.Enter Mail id and Password at lines 30 and 31 respectively.
 			Enter mail Subject and Body at lines 57 and 59 respectively.
 
+	C)Better Version -> 'mail2.py':
+
+		Same as 'bulkMail.py', but now we can format the text of mail using HTML.
+
 2) Text similarity:
 
 	A)'cosine.py'
