@@ -81,3 +81,20 @@ Hello there! This repository has various Python projects made during my learning
 3) 'ImageResizer.py'
 		
 		This program can be used to resize any image. This is very simple tools so please keep the image file in same directory as this program.
+
+4) "Youtube playlist downloader"
+
+	This is a youtube playlist downloader.
+	To download a playlist from youtube,
+
+	You will need "youtube-dl" installed to use this tool, "googleapiclient.discovery", BS4" and "openpyxl" should also be installed using pip/pip3.
+
+	Firstly run the "urlExtracter.py" to get urls of each video of the playlist. You will need Youtube API key for this which is freely availabe with any Google account.
+
+	After running the "urlExtracter.py", copy the links from the terminal to a word file and open the file using excel/ libreoffice and keep "'" as the delimiter to seperate the playlist names.
+
+	In excel to arrange the urls in better way, copy all the urls and do a paste special->Transpose to  make it more readble and remove , by sorting the sheet.
+	Now sheet should have the urls in column 1 and commas(",") should be removed by sorting and removing last cells with ",".
+
+	Now run "downloader.py" to download the playlist from youtube using "youtube-dl" command, this programs works quite efficiently.
+	Just enter filename and no of video to be downloaded form the link.
