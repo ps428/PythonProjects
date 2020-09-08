@@ -98,3 +98,8 @@ Hello there! This repository has various Python projects made during my learning
 
 	Now run "downloader.py" to download the playlist from youtube using "youtube-dl" command, this programs works very efficiently.
 	Just enter filename and no of video to be downloaded form the link.
+
+5) 'Coursera Py4E Capstone'
+	
+	This directory has Python for everybody Capstone project (with honours content). 
+	Contains code for py4e course, taught by Dr. Charles Severance.
