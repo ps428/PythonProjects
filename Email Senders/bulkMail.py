@@ -16,15 +16,15 @@ import smtplib, ssl
 from openpyxl import load_workbook
 fl=input("Enter filename: ")
 if len(fl)<1:
-	fl="excelFileName.xlsx"
+	fl="1.xlsx"
 workbook = load_workbook(filename=fl)
 ##
 
 
 port = 587  # For starttls
 smtp_server = "smtp.gmail.com"
-sender_email = "ENTER SENDER'S EMAIL ADDERSS HERE"
-password = "ENTER SENDER'S PASSWORD HERE"
+sender_email = ""
+password = ""
 
 ##
 #sheet = workbook.active
@@ -47,11 +47,14 @@ for i in range(1,int(counter)+1):
 	print("Sending mail number {} to:".format(i),receiver_email)
 	#
 
-	SUBJECT='SUBJECT GOES HERE'
+	SUBJECT='You have been spammed'
 	TEXT = """
-THIS IS MAIL BODY
+Hi there!
+
+This is how a basic spam message is like, now to unfreeze your assets, pay 200USD in Dodgecoin at the linked wallet.
 
 THANKS
+Mark III
 	"""
 	#
 	message='Subject:{}\n\n{}'.format(SUBJECT,TEXT)
