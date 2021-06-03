@@ -1,4 +1,5 @@
 Hello there! This repository has various Python projects made during my learning.
+![](https://komarev.com/ghpvc/?username=ps428)
 
 1) Email Senders:
 
@@ -103,3 +104,8 @@ Hello there! This repository has various Python projects made during my learning
 	
 	This directory has Python for everybody Capstone project (with honours content). 
 	Contains code for py4e course, taught by Dr. Charles Severance.
+
+...
+
+7) Estimators:	
+		i) PI estimator: Used random numbers to estimate the value of PI in Python Language. The basic idea is to find a ration of points generated inside 				    the circle to the points inside the square and equate that to the areas of the respective figures.
