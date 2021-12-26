@@ -1,6 +1,7 @@
 import os, time
-
+from pytube import YouTube
 from openpyxl import load_workbook
+
 fl=input("Enter filename: ")
 if len(fl)<1:
 	fl="MySirG.xlsx"
@@ -15,6 +16,6 @@ for i in range(1,int(counter)+1):
 	sheet = workbook.active
 
 	address = sheet.cell(row=i,column=1)
-
-	os.system("youtube-dl -i "+address.value)
+	yt = YouTube(address.value)
+	#os.system("youtube-dl -i "+address.value)
 	#os.system("k")
