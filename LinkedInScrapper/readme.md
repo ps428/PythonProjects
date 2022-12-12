@@ -2,6 +2,7 @@
 ref: https://pypi.org/project/linkedin-jobs-scraper/
 
 ## Steps:
+0. Install pip using these steps: https://youtu.be/_1B4hckew6Q
 1. Just install the required library using: pip install linkedin-jobs-scraper
 2. This scrapper also needs you to have Chrome drivers, just ping me if there is any issue in runnning it. Simply test the code once with: python scape.py
 3. If everything is fine, then let's run this in authenticated manner. Just go to cookies and fetch the value of the key 'li_at'...simply google how to get cookies in your particular browser
