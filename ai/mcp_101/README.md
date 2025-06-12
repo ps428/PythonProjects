@@ -1,6 +1,6 @@
-# Weather App with Model Completion Protocol
+# Weather App with Model Context Protocol
 
-A simple yet powerful weather application that demonstrates using Model Completion Protocol (MCP) with OpenAI.
+A simple yet powerful weather application that demonstrates using Model Context Protocol (MCP) with OpenAI.
 
 ## What Is This Project?
 
@@ -98,6 +98,6 @@ Forecast: Mostly sunny, with a high near 85. Southwest wind 5 to 10 mph.
 
 ## Learn More
 
-This project demonstrates practical usage of the Model Completion Protocol. To learn more:
+This project demonstrates practical usage of the Model Context Protocol. To learn more:
 - [MCP Documentation](https://modelcontextprotocol.io/introduction)
 - [National Weather Service API](https://weather-gov.github.io/api/)

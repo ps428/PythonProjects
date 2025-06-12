@@ -1,6 +1,6 @@
-# Weather App with Model Completion Protocol and API Authentication
+# Weather App with Model Context Protocol and API Authentication
 
-A simple yet powerful weather application that demonstrates using Model Completion Protocol (MCP) with OpenAI, featuring secure API authentication between client and server.
+A simple yet powerful weather application that demonstrates using Model Context Protocol (MCP) with OpenAI, featuring secure API authentication between client and server.
 
 ## What Is This Project?
 
@@ -219,7 +219,7 @@ This modular approach makes it easy to extend with more advanced authentication 
 
 ## Learn More
 
-This project demonstrates practical usage of the Model Completion Protocol. To learn more:
+This project demonstrates practical usage of the Model Context Protocol. To learn more:
 - [MCP Documentation](https://modelcontextprotocol.io/introduction)
 - [National Weather Service API](https://weather-gov.github.io/api/)
 - [MCP Server](https://modelcontextprotocol.io/quickstart/server)
